@@ -1,5 +1,5 @@
-import * as faceLandmarksDetection from '@tensorflow-models/face-landmarks-detection'
 import * as tf from '@tensorflow/tfjs'
+import * as faceLandmarksDetection from '@tensorflow-models/face-landmarks-detection'
 import React, { useRef } from 'react'
 import Webcam from 'react-webcam'
 
